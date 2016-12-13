@@ -1,0 +1,30 @@
+body{
+    background-color:white;
+    color:black;
+    font-family: calibri;
+    
+}
+
+a{
+    color:black;
+    border:2px solid antiquewhite;
+    border-radius:13px;
+    text-decoration:none;
+    padding:2px;
+    margin-left:20%;
+}
+a:hover{
+    background-color: antiquewhite;
+    color:black;
+}
+p{
+    background-color:dimgray;
+    width:40%;
+    margin-left:15%;
+    border-radius:3px;
+    padding:2px;
+    opacity:0.7;filter:alpha(opacity=150);
+}
+video{
+    margin-left:15%;
+}

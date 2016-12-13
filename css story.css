@@ -1,0 +1,37 @@
+body{
+    background-color:white;
+}
+
+.paragraph{
+    font-family:calibri;
+    color:white;
+    background-color:dimgray;
+    width="70%";
+    height="200%";
+    padding:2% 4%;
+    margin-top: 8%;
+    margin-left:5%;
+    margin-right: 5%;
+    margin bottom:5%;
+    border-radius: 4px;
+}
+
+a{
+    margin-left: 5%;
+    text-align: center;
+    font-family:calibri;
+    color:dimgray;
+    text-decoration: none;   
+    padding:2px 4px;
+    border: 2px solid dimgray;
+    transition-duration: 300ms;
+    border-radius:14px;
+}
+
+a:hover{
+    background-color:dimgray;
+    color:white;
+
+    
+    
+}
